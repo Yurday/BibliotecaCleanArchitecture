@@ -1,4 +1,4 @@
-package co.com.sofka.usecases;
+package co.com.sofka.domain.repository;
 
 import co.com.sofka.domain.Resource;
 

@@ -1,7 +1,7 @@
 package co.com.sofka.rest;
 
+import co.com.sofka.domain.repository.ResourceRepository;
 import co.com.sofka.usecases.CreateResourceUseCase;
-import co.com.sofka.usecases.ResourceRepository;
 
 public class RestResourceController {
 
